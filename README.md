@@ -26,9 +26,10 @@ The objective is to build a model that can effectively learn from the patterns i
 #### Step 5: Preprocess test data, predict using the trained model, and visualize the results
 
 ## Program
-### Name: CHAITANYA P S
-### Register Number: 212222230024
-```python
+``` python
+ Name: CHAITANYA P S
+ Register Number: 212222230024
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
