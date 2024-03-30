@@ -19,18 +19,16 @@ The objective is to build a model that can effectively learn from the patterns i
 
 ## Design Steps
 
-### Step 1:
-
-### Step 2:
-
-### Step 3:
-
+### Step 1: Read and preprocess training data, including scaling and sequence creation.
+### Step 2: Initialize a Sequential model and add SimpleRNN and Dense layers.
+### Step 3: Compile the model with Adam optimizer and mean squared error loss.
+### Step 4: Train the model on the prepared training data.
+### Step 5: Preprocess test data, predict using the trained model, and visualize the results
 
 ## Program
+### Name: CHAITANYA P S
+### Register Number: 212222230024
 ```python
- Name: CHAITANYA P S
- Register Number: 212222230024
-
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
