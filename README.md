@@ -20,8 +20,8 @@ Write your own steps
 
 ## Program
 ```python
-#### Name: CHAITANYA P S
-#### Register Number: 212222230024
+ Name: CHAITANYA P S
+ Register Number: 212222230024
 
 import numpy as np
 import matplotlib.pyplot as plt
